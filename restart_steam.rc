@@ -1,0 +1,5 @@
+// restart_steam.rc
+#include "resource.h"
+
+// 定义应用程序图标
+IDI_ICON1 ICON "Steam restart.ico"
