@@ -1,0 +1,18 @@
+# 忽略编译生成的文件
+*.o
+*.obj
+*.exe
+
+# 忽略缓存文件
+dist/steam_path.cache
+
+# 忽略临时文件
+*.tmp
+*.temp
+*.bak
+
+# 忽略IDE和编辑器生成的文件
+.vscode/
+.idea/
+*.suo
+*.user
